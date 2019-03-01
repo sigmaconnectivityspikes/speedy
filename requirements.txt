@@ -1,0 +1,4 @@
+numpy==1.16.1
+opencv-python==4.0.0.21
+pyrealsense2==2.18.1.546
+dlib==19.16.0
